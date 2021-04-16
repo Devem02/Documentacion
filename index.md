@@ -2,6 +2,21 @@
 ## Descripción del problema
 Invaders es un juego en el que el jugador puede controlar una nave que se mueve horizontal mente en la parte inferior de la pantalla con el fin de eliminar a todos los invasores. Los invasores son hileras de enemigos que avanzan de arriba hacia abajo en la pantalla y se mueven de lado a lado.(el movimiento es de la hilera completa).<br/>El jugador deberá mover la nave para eliminarlos y evitar que lleguen hacia la parte inferior de la pantalla.Las hileras de enemigos varían aleatoriamente. Cualquier tipo de hilera de enemigos se implementa mediante una lista enlazada y poseen ciertos atributos especiales.Conforme los niveles avanzan, los enemigos son más rápidos. Cualquier tipo de lista enlazada, debe ser implementada por el equipo de trabajo.Conforme el jugador destruye los enemigos, los miembros de la hilera se mueven hacia el centro:
 <br/><br/>Existen las siguientes clases de hileras de enemigos:
+1. Basica
+   - Solo tiene minions
+2. Tipo A
+   - Tiene un Boss
+3. Tipo B
+   - Tiene un Boss que se intercambia
+4. Tipo C
+   - Tiene un Boss que si se destruye otro toma su lugar aleatoriamente
+5. Tipo D
+   - Todos los miembros de la hilera tienen resistencias distintas
+6. Tipo E
+   - La hilera rota con el Boss en el centro
+
+   
+
 
 ## Link a Jira
 [Space Invaders Jira](https://diegovm02.atlassian.net/jira/software/projects/SI/boards/1)
