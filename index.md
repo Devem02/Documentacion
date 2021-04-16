@@ -6,10 +6,10 @@
 
 ## Plan de Iteración
 Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *User Stories*
-1.Crear una ventana
+|1.Crear una ventana|
   - Crear una ventana de Menu principal
   - Crear una ventana de Juego
-  - Crear Una ventana de Instrucciones
+  - Crear Una ventana de Instrucciones|
 2.Crear Clases para los objetos mostrados en pantalla
   - Crear clase Spacecraft
   - Crear clase LaserBeam
