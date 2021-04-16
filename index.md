@@ -73,7 +73,7 @@ La asignación de tareas sucedio de la siguiente forma:
 - BubbleSort:
   - La función se mantiene ejecutandose en algunas situaciones y no se detiene a no ser que se detenga el proceso
     
-Reference-style:
+Diagrama de clase:
 ![alt text][logo1]
 
 [logo1]: https://github.com/Devem02/Documentacion/raw/main/images/Diagrama.png "Logo Title Text 2"
