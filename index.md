@@ -75,3 +75,15 @@ La asignación de tareas sucedio de la siguiente forma:
 
 Inline-style:
 ![Imagen del Diagrama de Clases](https://github.com/Devem02/Documentacion/Diagrama.png "Logo Title Text 1")
+
+Inline-style:
+![Imagen del Diagrama de Clases](https://github.com/Devem02/Documentacion/blob/main/Diagrama.png "Logo Title Text 1")
+
+![alt text][logo]
+
+[logo]: https://github.com/Devem02/Documentacion/Diagrama.png "Logo Title Text 2"
+
+
+![alt text][logo1]
+
+[logo1]: https://github.com/Devem02/Documentacion/blob/main/Diagrama.png "Logo Title Text 2"
