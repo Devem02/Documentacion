@@ -13,9 +13,7 @@ Invaders es un juego en el que el jugador puede controlar una nave que se mueve 
 * Semana 2: Crear Clases para los objetos mostrados en pantalla. Al momento en que aparescan en pantalla .
 * Semana 3: Crear clases de las listas para el manejo de los invaders.Al momento en que las interacciones de los nodos funcionen bien.
 * Semana 4:Crear clases row que manejen el funcionamiento de las oleadas de enemigos. Que las oleadas no colapsen.
-* Semana 5: Ser capaces de jugar. Cuando no suceda ningun bug ni run time error 
-| ID | Actividad | Semana | Condicion de culminación |
-
+* Semana 5: Ser capaces de jugar. Cuando no suceda ningun bug ni run time error
 
 ## Descomposicion de  _User Stories_  en tareas
 Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *User Stories*
@@ -74,4 +72,6 @@ La asignación de tareas sucedio de la siguiente forma:
 ## Descripción de bugs encontrados
 - BubbleSort:
   - La función se mantiene ejecutandose en algunas situaciones y no se detiene a no ser que se detenga el proceso
-    
+
+Inline-style:
+![Imagen del Diagrama de Clases](https://github.com/Devem02/Documentacion/Diagrama.png "Logo Title Text 1")
