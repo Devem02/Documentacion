@@ -4,6 +4,15 @@
 #### Link a Jira
 [Space Invaders Jira](https://diegovm02.atlassian.net/jira/software/projects/SI/boards/1)
 
+## _Plan de Iteracion_
+| ID | Actividad | Semana | Condicion de culminación|
+|--- | ---| ---|---|
+|01| Crear Ventanas |  1 semana | Aparecen las ventanas |
+|02| Crear Clases para los objetos mostrados en pantalla| 2 semana | Al momento en que aparescan en pantalla ||
+|03| Crear clases de las listas para el manejo de los invaders| 3 semana| Al momento en que las interacciones de los nodos funcionen bien|
+|04| Crear clases row que manejen el funcionamiento de las oleadas de enemigos| 4 semana | Que las oleadas no colapsen|
+|05| Ser caoaces de jugar | 5 semana | Cuando no suceda ningun bug ni run time error |
+
 ## Descomposicion de  _User Stories_  en tareas
 Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *User Stories*
 
