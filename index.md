@@ -6,7 +6,7 @@
 
 ## _Plan de Iteracion_
 | ID | Actividad | Semana | Condicion de culminación|
-|--- | ---| ---|---|
+| --- | ---| --- | --- |
 |01| Crear Ventanas |  1 semana | Aparecen las ventanas |
 |02| Crear Clases para los objetos mostrados en pantalla| 2 semana | Al momento en que aparescan en pantalla ||
 |03| Crear clases de las listas para el manejo de los invaders| 3 semana| Al momento en que las interacciones de los nodos funcionen bien|
