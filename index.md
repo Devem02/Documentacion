@@ -72,18 +72,11 @@ La asignación de tareas sucedio de la siguiente forma:
 ## Descripción de bugs encontrados
 - BubbleSort:
   - La función se mantiene ejecutandose en algunas situaciones y no se detiene a no ser que se detenga el proceso
-
-Inline-style:
-![Imagen del Diagrama de Clases](https://github.com/Devem02/Documentacion/Diagrama.png "Logo Title Text 1")
-
-Inline-style:
-![Imagen del Diagrama de Clases](https://github.com/Devem02/Documentacion/blob/main/Diagrama.png "Logo Title Text 1")
-
+    
+Reference-style:
 ![alt text][logo]
-
 [logo]: https://github.com/Devem02/Documentacion/Diagrama.png "Logo Title Text 2"
 
-
+Reference-style:
 ![alt text][logo1]
-
 [logo1]: https://github.com/Devem02/Documentacion/blob/main/Diagrama.png "Logo Title Text 2"
