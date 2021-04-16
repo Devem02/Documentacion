@@ -2,7 +2,7 @@
 ## Descripción del problema
 
 #### Link a Jira
-[Space Invaders Jira]{https://diegovm02.atlassian.net/jira/software/projects/SI/boards/1}
+[Space Invaders Jira](https://diegovm02.atlassian.net/jira/software/projects/SI/boards/1)
 
 ## Plan de Iteración
 Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *User Stories*
