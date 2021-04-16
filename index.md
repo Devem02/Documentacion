@@ -7,12 +7,22 @@ Invaders es un juego en el que el jugador puede controlar una nave que se mueve 
 [Space Invaders Jira](https://diegovm02.atlassian.net/jira/software/projects/SI/boards/1)
 
 ## _Plan de Iteracion_
+<<<<<<< HEAD
 
 * Semana 1: Aparecen las ventanas.
 * Semana 2: Crear Clases para los objetos mostrados en pantalla. Al momento en que aparescan en pantalla .
 * Semana 3: Crear clases de las listas para el manejo de los invaders.Al momento en que las interacciones de los nodos funcionen bien.
 * Semana 4:Crear clases row que manejen el funcionamiento de las oleadas de enemigos. Que las oleadas no colapsen.
 * Semana 5: Ser capaces de jugar. Cuando no suceda ningun bug ni run time error 
+=======
+| ID | Actividad | Semana | Condicion de culminación |
+| --- | --- | --- | --- |
+| 01 | Crear Ventanas |  1 semana | Aparecen las ventanas | 
+| 02 | Crear Clases para los objetos mostrados en pantalla | 2 semana | Al momento en que aparescan en pantalla |
+| 03 | Crear clases de las listas para el manejo de los invaders | 3 semana | Al momento en que las interacciones de los nodos funcionen bien |
+| 04 | Crear clases row que manejen el funcionamiento de las oleadas de enemigos | 4 semana | Que las oleadas no colapsen |
+| 05 | Ser capaces de jugar | 5 semana | Cuando no suceda ningun bug ni run time error |
+>>>>>>> 82e96dfe833f4b83478be611582209dfd9bacd37
 
 ## Descomposicion de  _User Stories_  en tareas
 Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *User Stories*
