@@ -76,9 +76,8 @@ La asignación de tareas sucedio de la siguiente forma:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/Devem02/Documentacion/Diagrama.png "Logo Title Text 2"
+[logo]: https://github.com/Devem02/Documentacion/images/Diagrama.png "Logo Title Text 2"
 
 Reference-style:
 ![alt text][logo1]
-
-[logo1]: https://github.com/Devem02/Documentacion/blob/main/Diagrama.png "Logo Title Text 2"
+[logo1]: https://github.com/Devem02/Documentacion/blob/main/images/Diagrama.png "Logo Title Text 2"
