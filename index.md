@@ -4,35 +4,61 @@
 #### Link a Jira
 [Space Invaders Jira](https://diegovm02.atlassian.net/jira/software/projects/SI/boards/1)
 
-## Plan de Iteración
+## Descomposicion de  _User Stories_  en tareas
 Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *User Stories*
-- 1.Crear una ventana
-   - Crear una ventana de Menu principal
-   - Crear una ventana de Juego
-   - Crear Una ventana de Instrucciones
-- 2.Crear Clases para los objetos mostrados en pantalla
-   - Crear clase Spacecraft
-   - Crear clase LaserBeam
-   - Crear clase minion (tipo de invader comun)
-   - Crear clase boss (tipo especial de invader)
-   - Crear clase Contador
-- 3.Crear clases de las listas para el manejo de los invaders
-   - 3.1 Crear clases Nodos para el uso en las listas
-         - Nodo simplemente enlazado
-         - Nodo doblemente enlazado
-   - Lista simplemente enlazada
-         - Crear función que elimine toda la linea al morir el boss
-   - Lista doblemente enlazada
+
+1.Crear ventanas
+  - Crear una ventana de Menu principal
+  - Crear una ventana de Juego
+  - Crear Una ventana de Instrucciones
+
+2.Crear Clases para los objetos mostrados en pantalla
+  - Crear clase Spacecraft
+  - Crear clase LaserBeam
+  - Crear clase minion (tipo de invader comun)
+  - Crear clase boss (tipo especial de invader)
+  - Crear clase Contador
+
+3.Crear clases de las listas para el manejo de los invaders
+  - 3.1 Crear clases Nodos para el uso en las listas  
+    - Nodo simplemente enlazado 
+    - Nodo doblemente enlazado
+  - Lista simplemente enlazada
+  - Lista doblemente enlazada
     - Crear función BubbleSort
     - Crear función que cambie la posicion del boss cada cierto tiempo
-   - Lista simplemente enlazada circular
+  - Lista simplemente enlazada circular
     - Crear función que convierte un minion en boss
    - Lista doblemente enlazada circular
-    - Crear función que convierte un minion en boss
-- 4.Crear clases row que manejen el funcionamiento de las oleadas de enemigos
-    - Row Basic
-    - Row A
-    - Row B
-    - Row C
-    - Row D
-    - Row E
+     - Crear función que convierte un minion en boss
+
+4.Crear clases row que manejen el funcionamiento de las oleadas de enemigos
+   - Row Basic
+   - Row A
+   - Row B
+   - Row C
+   - Row D
+   - Row E
+
+5.Hacer aparecer los invaders y nave en pantalla
+
+## Asignacion de tareas e historias
+La asignación de tareas sucedio de la siguiente forma:
+
+- Diego Vega
+  * 1.Crear una ventana
+  * 5.Hacer aparecer los invaders y nave en pantalla
+    
+- Juan Rodríguez 
+  *  2.Crear Clases para los objetos mostrados en pantalla
+    
+- Jordy Calderón
+  * 3.Crear clases de las listas para el manejo de los invaders
+    
+- Jose Umaña
+  * 4.Crear clases row que manejen el funcionamiento de las oleadas de enemigos
+    
+## Descripción de bugs encontrados
+- BubbleSort:
+  - La función se mantiene ejecutandose en algunas situaciones y no se detiene a no ser que se detenga el proceso
+    
