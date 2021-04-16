@@ -23,8 +23,8 @@ Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *Use
    - Lista simplemente enlazada
          - Crear función que elimine toda la linea al morir el boss
    - Lista doblemente enlazada
-         - Crear función BubbleSort
-         - Crear función que cambie la posicion del boss cada cierto tiempo
+    - Crear función BubbleSort
+    - Crear función que cambie la posicion del boss cada cierto tiempo
    - Lista simplemente enlazada circular
     - Crear función que convierte un minion en boss
    - Lista doblemente enlazada circular
