@@ -14,6 +14,13 @@ Invaders es un juego en el que el jugador puede controlar una nave que se mueve 
    - Todos los miembros de la hilera tienen resistencias distintas
 6. Tipo E
    - La hilera rota con el Boss en el centro
+7. Tipo BST
+   - Hilera con forma de arbol binario
+8. Tipo AVL
+   - Hilera con forma de arbol AVL
+
+Ademas de esto se incluye el modo multijugador, el cual usando un servisor local varios usuarios pueden jugar simultaneamente.
+
 
    
 
