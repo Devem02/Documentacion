@@ -31,7 +31,7 @@ Ademas de esto se incluye el modo multijugador, el cual usando un servisor local
 ## _Plan de Iteracion_
 
 
-* Semana 1: Aparecen las ventanas.
+* Semana 1: Investigacion con respecto a los servidores.
 * Semana 2: Crear Clases para los objetos mostrados en pantalla. Al momento en que aparescan en pantalla .
 * Semana 3: Crear clases de las listas para el manejo de los invaders.Al momento en que las interacciones de los nodos funcionen bien.
 * Semana 4:Crear clases row que manejen el funcionamiento de las oleadas de enemigos. Que las oleadas no colapsen.
@@ -78,18 +78,10 @@ Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *Use
 ## Asignacion de tareas e historias
 La asignación de tareas sucedio de la siguiente forma:
 
-- Diego Vega
-  * 1.Crear ventanas
-  * 5.Hacer aparecer los invaders y nave en pantalla
+- Diego Vega y Jordy Calderon
     
-- Juan Rodríguez 
-  *  2.Crear Clases para los objetos mostrados en pantalla
+- Juan Rodríguez y Jose Umaña
     
-- Jordy Calderón
-  * 3.Crear clases de las listas para el manejo de los invaders
-    
-- Jose Umaña
-  * 4.Crear clases row que manejen el funcionamiento de las oleadas de enemigos
     
 ## Descripción de bugs encontrados
 - BubbleSort:
