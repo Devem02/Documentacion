@@ -3,12 +3,9 @@
 Basandonos en la version 1.0 del Space Invaders, se desarrollara una nueva versión que incluirá nuevas características como la posibildad de que varios jugadores participen simultaneamente.<br/>Para esto se deberán trabajaar dos programas en Java por separado, el servidor y el cliente. Donde el servidor recibe mensajes indicando las acciones que ha realizado cada jugador y este mismo actualiza a los demas clientes enviándoles el evento realizado por un determinado jugador.
 <br/><br/>Ademas, en esta nueva version se añadirán dos nuevas clases de enemigos, que acompañaran a las ya existentes, las nuevas implementaciones seran las:
 1. Tipo BST
-   - El cual es un árbol binario de busqueta. Y se vera en pantalla como un árbol BST
+   - El cual es un árbol binario de busqueda. Y se vera en pantalla como un árbol BST
 2. Tipo AVL
    - Siendo un árbol AVL.
-
-
-
    
 
 
@@ -29,7 +26,12 @@ Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *Use
 
 1.Crear multijugador
   - Crear servidor
+    - Hacer que el Servidor maneje la logica del juego.
+    - Hacer que el Servidor envie y reciba informacion del cliente.
   - Crear cliente
+    - Hacer que el cliente se encargue del renderizado
+    - Renderizar la informacion enviada por el Servidor
+    - Hacer que el Cliente se encargue de la logica de su respectiva nave
   - Lograr conexión entre ambos
 
 3.Crear clases de los arboles para el manejo de los invaders
@@ -47,7 +49,7 @@ Para el proyecto se planteo el siguiente plan de iteracion de acuerdo a las *Use
 La asignación de tareas sucedio de la siguiente forma:
 
 - Diego Vega y Jordy Calderon
-    * Creación del multijugador
+    * Implementación del multijugador
     
 - Juan Rodríguez y Jose Umaña
     * Creación de árboles
