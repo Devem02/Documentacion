@@ -54,15 +54,15 @@ La asignación de tareas sucedio de la siguiente forma:
 - Juan Rodríguez y Jose Umaña
     * Creación de árboles
     
-## Descripción de bugs encontrados
-
     
-Diagrama de clase del servidor: <br/>
+## Diagrama de clase del servidor: <br/>
 ![alt text][logo1]
 
 [logo1]: https://github.com/Devem02/Documentacion/raw/main/images/DiagramaServer.png "Logo Title Text 2"
 
-Diagrama de clase del cliente: <br/>
+## Diagrama de clase del cliente: <br/>
 ![alt text][logo2]
 
 [logo2]:https://github.com/Devem02/Documentacion/raw/main/images/DiagramaClient.png "Logo Title Text 3"
+
+## Descripción de bugs encontrados
