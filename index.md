@@ -57,7 +57,7 @@ La asignación de tareas sucedio de la siguiente forma:
 ## Descripción de bugs encontrados
 
     
-Diagrama de clase:
+Diagrama de clase del servidor:
 ![alt text][logo1]
 
 [logo1]: https://github.com/Devem02/Documentacion/raw/main/images/Diagrama.png "Logo Title Text 2"
